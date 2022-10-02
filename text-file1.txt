@@ -10,3 +10,5 @@ this is feature1 text
 this is feature2 text
 
 The logo is now perfectly centered
+
+some modification form master branch

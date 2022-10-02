@@ -7,4 +7,6 @@ I live in Cox's Bazar
 
 this is feature1 text
 
-some modification from feartuer branch
+The logo is now perfectly centered
+
+some modification form master branch
